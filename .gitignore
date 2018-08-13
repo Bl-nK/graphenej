@@ -9,7 +9,8 @@
 .gradle
 gradlew.bat
 gradle
-graphenej/build
+graphenej-core/build
+graphenej-android/build
 /build
 /buildSrc/build
 /subprojects/*/build
